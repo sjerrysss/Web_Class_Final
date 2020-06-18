@@ -7,9 +7,9 @@
         "model": "Giulia Quadrifoglio",
         "displacement": 2.9,
         "engine": "V6 Twin-Turbo",
+        "image": "https://www.wsupercars.com/wallpapers/Alfa-Romeo/2016-Alfa-Romeo-Giulia-019-1080.jpg",
         "created_at": "2020-06-17T07:55:46.920Z",
-        "updated_at": "2020-06-17T07:59:57.202Z",
-        "image": "https://www.netcarshow.com/Alfa_Romeo-Giulia_Quadrifoglio-2016-1600-03.jpg"
+        "updated_at": "2020-06-18T08:50:16.191Z"
     },
     {
         "id": 2,
@@ -19,9 +19,9 @@
         "model": "B7",
         "displacement": 4.4,
         "engine": "V8 Twin-Turbo",
+        "image": "https://www.alpina-automobiles.com/fileadmin/_processed_/csm_BMW_ALPINA_B7_01_58f5c9f84e.jpg",
         "created_at": "2020-06-17T08:03:39.013Z",
-        "updated_at": "2020-06-17T08:03:39.013Z",
-        "image": "https://www.netcarshow.com/Alpina-BMW_B7_xDrive_Sedan-2020-1024-01.jpg"
+        "updated_at": "2020-06-18T09:13:09.438Z"
     },
     {
         "id": 3,
@@ -31,9 +31,9 @@
         "model": "Berlingo 1.5L BlueHDi",
         "displacement": 1.5,
         "engine": "I4 Diesel Turbo",
+        "image": "https://media.citroen.co.uk/image/61/2/737x414-New-Citroen-Berlingo-Design.290612.jpg?_ga=2.24584178.955627113.1592471707-1106082464.1592471707",
         "created_at": "2020-06-17T08:08:25.821Z",
-        "updated_at": "2020-06-17T08:08:25.821Z",
-        "image": "https://www.netcarshow.com/Citroen-Berlingo-2019-1024-01.jpg"
+        "updated_at": "2020-06-18T09:16:06.576Z"
     },
     {
         "id": 4,
@@ -43,9 +43,9 @@
         "model": "9",
         "displacement": 1.6,
         "engine": "I4 Turbo PHEV",
+        "image": "https://images.hgmsites.net/hug/2020-ds-9_100737354_h.jpg",
         "created_at": "2020-06-17T08:15:48.707Z",
-        "updated_at": "2020-06-17T08:15:48.707Z",
-        "image": "https://www.netcarshow.com/DS-9-2021-1024-01.jpg"
+        "updated_at": "2020-06-18T09:19:40.170Z"
     },
     {
         "id": 5,
@@ -55,9 +55,9 @@
         "model": "Roma",
         "displacement": 3.9,
         "engine": "V8 Twin-Turbo",
+        "image": "https://noolyo.com/wp-content/uploads/2020/04/2021-Ferrari-Roma-004-1024x768.jpg",
         "created_at": "2020-06-17T08:17:27.695Z",
-        "updated_at": "2020-06-17T08:17:27.695Z",
-        "image": "https://www.netcarshow.com/Ferrari-Roma-2020-1024-01.jpg"
+        "updated_at": "2020-06-18T09:23:01.147Z"
     },
     {
         "id": 6,
@@ -67,9 +67,9 @@
         "model": "595 Abarth",
         "displacement": 1.4,
         "engine": "I4 Turbo",
+        "image": "https://www.mad4wheels.com/img/free-car-images/mobile/16661/abarth-595-turismo-2018-514054.jpg",
         "created_at": "2020-06-17T08:19:55.232Z",
-        "updated_at": "2020-06-17T08:19:55.232Z",
-        "image": "https://www.netcarshow.com/Fiat-595_Abarth-2019-1024-01.jpg"
+        "updated_at": "2020-06-18T09:26:52.332Z"
     },
     {
         "id": 7,
@@ -79,9 +79,9 @@
         "model": "F-Type R",
         "displacement": 5,
         "engine": "V8 Supercharged",
+        "image": "https://www.wsupercars.com/wallpapers/Jaguar/2021-Jaguar-F-Type-R-Coupe-001-1080.jpg",
         "created_at": "2020-06-17T08:24:34.367Z",
-        "updated_at": "2020-06-17T08:24:34.367Z",
-        "image": "https://www.netcarshow.com/Jaguar-F-Type-2021-1024-0a.jpg"
+        "updated_at": "2020-06-18T09:30:23.019Z"
     },
     {
         "id": 8,
@@ -91,9 +91,9 @@
         "model": "Defender 90",
         "displacement": 3,
         "engine": "V6 Turbo",
+        "image": "http://wp2.carwallpapers.cc/land-rover/defender/2020-90-d240-se-explorer-pack/Land-Rover-Defender-90-D240-SE-Explorer-Pack-2020-1920x1080-023.jpg",
         "created_at": "2020-06-17T08:28:40.578Z",
-        "updated_at": "2020-06-17T08:28:40.578Z",
-        "image": "https://www.netcarshow.com/Land_Rover-Defender_90-2020-1024-0e.jpg"
+        "updated_at": "2020-06-18T09:39:11.895Z"
     },
     {
         "id": 9,
@@ -103,9 +103,9 @@
         "model": "508 SW",
         "displacement": 1.6,
         "engine": "I4 Turbo",
+        "image": "https://www.hdcarwallpapers.com/walls/peugeot_508_sw_gt_2018_4k_3-HD.jpg",
         "created_at": "2020-06-17T08:33:04.405Z",
-        "updated_at": "2020-06-17T08:33:04.405Z",
-        "image": "https://www.netcarshow.com/Peugeot-508_SW-2019-1024-19.jpg"
+        "updated_at": "2020-06-18T09:41:26.725Z"
     },
     {
         "id": 10,
@@ -115,9 +115,9 @@
         "model": "Megane RS Trophy-R",
         "displacement": 1.8,
         "engine": "I4 Turbo",
+        "image": "https://www.wsupercars.com/wallpapers/Renault/2020-Renault-Megane-RS-Trophy-R-004-1080.jpg",
         "created_at": "2020-06-17T08:38:29.801Z",
-        "updated_at": "2020-06-17T08:38:29.801Z",
-        "image": "https://www.netcarshow.com/Renault-Megane_RS_Trophy-R-2020-1024-04.jpg"
+        "updated_at": "2020-06-18T09:42:45.272Z"
     },
     {
         "id": 11,
@@ -127,8 +127,8 @@
         "model": "V60 T6",
         "displacement": 2,
         "engine": "I4 Turbo+Supercharged PHEV",
+        "image": "https://www.netcarshow.com/Volvo-V60-2019-1024-02.jpg",
         "created_at": "2020-06-17T08:41:46.309Z",
-        "updated_at": "2020-06-17T08:41:46.309Z",
-        "image": "https://www.netcarshow.com/Volvo-V60-2019-1024-02.jpg"
+        "updated_at": "2020-06-17T08:41:46.309Z"
     }
 ]
